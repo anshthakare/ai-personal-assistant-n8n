@@ -43,3 +43,7 @@ An AI-powered personal assistant workflow built using **n8n**, **Google Gemini A
 ## 👨‍💻 Author
 
 **Ansh Thakare**
+
+## 📸 Workflow Screenshot
+
+![Workflow](workflow.png)
